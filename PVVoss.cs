@@ -27,8 +27,9 @@ using NinjaTrader.NinjaScript.DrawingTools;
 // Sort of direct copy from EasyLanguage Code
 // 2019.07.12 v1.0.0.1
 // 2019.07.15 v1.0.0.2 Visual enhancements
-// Coverted to NinjaTrader marko.rantala@pvoodoo.com https://pvoodoo.com
+// Coverted to NinjaTrader by marko.rantala@pvoodoo.com https://pvoodoo.com
 // License: MIT
+// Further information: https://pvoodoo.blogspot.com/2019/07/pvvoss-indicator.html
 //
 // AD: if you need any programming for NinjaTrader (Indicator/Strategy/...) Please contact marko.rantala@pvoodoo.com
 //
